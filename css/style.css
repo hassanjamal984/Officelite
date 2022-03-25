@@ -76,8 +76,8 @@ nav a:hover {
     text-transform: capitalize;
 }
 .btn-body:hover{
-    color: #fff;
     background-color: #333950;
+    color: #fff;
     box-shadow: 0 0 20px rgba(0,8,0,0.7);
     transform: scale(1.1);
 }
