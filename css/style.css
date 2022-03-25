@@ -35,7 +35,8 @@
     text-decoration: none;
 }
 nav a:hover {
-   background-color: #ffffff;
+   color: #fff;
+   background-color: #333950;;background-color: #ffffff;
 }
 .top-header{
     display: flex;
