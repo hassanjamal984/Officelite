@@ -76,6 +76,7 @@ nav a:hover {
     text-transform: capitalize;
 }
 .btn-body:hover{
+    background-color: #333950;
     box-shadow: 0 0 20px rgba(0,8,0,0.7);
     transform: scale(1.1);
 }
@@ -166,6 +167,7 @@ nav a:hover {
     margin-bottom: 20px;
 }
 .btn-box:hover{
+    background-color: #333950;
     box-shadow: 0 0 20px rgba(0,8,0,0.7);
     transform: scale(1.1);
 }
@@ -246,6 +248,7 @@ nav a:hover {
     text-transform: capitalize;
 }
 .btn-footer:hover{
+    background-color: #333950;
     box-shadow: 0 0 20px rgba(0,8,0,0.7);
     transform: scale(1.1);
 }
